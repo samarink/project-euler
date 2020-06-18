@@ -34,4 +34,4 @@ const squareOfSum = (range) => {
 }
 
 // test
-console.log(squaresDiff(100));
+console.log(squaresDiff(100)); // => 25164150

@@ -30,4 +30,5 @@ const isPrime = num => {
   return true;
 }
 
-console.log(nthPrime(10001));
+// test
+console.log(nthPrime(10001)); // => 104743

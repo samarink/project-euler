@@ -23,4 +23,5 @@ const largestProduct = n => {
   return currentLargest;
 }
 
-console.log(largestProduct(13));
+// test
+console.log(largestProduct(13)); // => 23514624000
